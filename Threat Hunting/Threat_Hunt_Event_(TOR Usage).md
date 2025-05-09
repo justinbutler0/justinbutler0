@@ -78,9 +78,9 @@ DeviceFileEvents
 - **Date**: November 9, 2024
 
 ## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
+- **Reviewer Name**: Justin Butler
+- **Reviewer Contact**: www.linkedin.com/in/justin-butler-497a99204
+- **Validation Date**: May 4, 2025
 
 ---
 
